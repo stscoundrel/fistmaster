@@ -1,0 +1,78 @@
+body{
+
+background-image:url('graphics/taustagrad.jpg');
+-webkit-transform: scale(0.9);
+-moz-transform: scale(0.9);
+transform: scale(0.9);
+}
+
+
+#fbase{
+position: relative;
+
+top: 25px;
+
+width: 1000px;
+height: 750px;
+background-color: #660000;
+background-image:url('graphics/menutausta.jpg');
+margin: 0 auto;
+}
+
+#base{
+
+width: 1050px;
+height: 800px;
+background-color: #660000;
+background-image:url('graphics/frame.jpg');
+margin: 0 auto;
+}
+
+#playBTN{
+position:relative;
+left:400px;
+top: 330px;
+width: 200px;
+height: 80px;
+
+
+}
+
+#infoBTN{
+position:relative;
+left:400px;
+top: 330px;
+width: 200px;
+height: 80px;
+
+
+}
+
+#creditsBTN{
+position:relative;
+left:300px;
+top: 390px;
+
+
+width: 200px;
+height: 80px;
+}
+#info{
+position:relative;
+left:700px;
+bottom: 70px;
+width: 300px;
+height:400px;
+}
+
+#credits{
+position: relative;
+bottom: 360px;
+width: 280px;
+height:200px;
+}
+
+
+
+
+

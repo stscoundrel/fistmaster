@@ -1,0 +1,42 @@
+body{
+background-image:url('graphics/taustagrad.jpg');
+-webkit-transform: scale(0.9);
+-moz-transform: scale(0.9);
+transform: scale(0.9);
+}
+
+p{
+color: white;
+font-size: 15px;
+}
+
+#base{
+position: relative;
+width: 1050px;
+height: 800px;
+background-color: #660000;
+background-image:url('graphics/frame.jpg');
+margin: 0 auto;
+}
+
+#fbase{
+position: relative;
+top: 25px;
+
+width: 1000px;
+height: 750px;
+background-color: #660000;
+background-image:url('graphics/victory.jpg');
+margin: 0 auto;
+}
+
+#newgame{
+position: relative;
+float: left;
+top: 650px;
+width:400px;
+height:100px;
+
+}
+
+

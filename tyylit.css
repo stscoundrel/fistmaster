@@ -1,0 +1,206 @@
+body{
+background-image:url('graphics/taustagrad.jpg');
+-webkit-transform: scale(0.9);
+-moz-transform: scale(0.9);
+transform: scale(0.9);
+
+}
+
+p{
+color: white;
+font-size: 15px;
+}
+
+#base{
+position: relative;
+width: 1050px;
+height: 800px;
+background-color: #660000;
+background-image:url('graphics/frame.jpg');
+margin: 0 auto;
+}
+
+#fbase{
+position: relative;
+top: 25px;
+
+width: 1000px;
+height: 750px;
+background-color: #660000;
+background-image:url('graphics/tausta.jpg');
+margin: 0 auto;
+}
+
+#divleft{
+width: 499px;
+height: 750px;
+float:left;
+}
+
+#divright{
+width: 499px;
+height: 750px;
+float:left;
+}
+
+#enemyhppic{
+
+width: 250px;
+height: 100px;
+background-color: green;
+background-image:url('graphics/enemyhp.jpg');
+
+}
+
+#EnemyHPNumber{
+float: right;
+padding-right: 30px;
+padding-top: 10px;
+color: white;
+
+}
+
+#enemyhp{
+position: relative;
+left: 25px;
+top: 62px;
+width: 1px;
+height: 20px;
+background-image:url('graphics/healthgrad.jpg');
+
+
+
+}
+
+
+
+
+
+#enemypic{
+float: right;
+width: 300px;
+height: 375px;
+}
+#playerpic{
+position: relative;
+top: 125px;
+left: 98px;
+float: left;
+width: 300px;
+height: 375px;
+
+
+}
+
+#playerhppic{
+position: relative;
+right: 25px;
+top: 25px;
+float: right;
+width: 250px;
+height: 100px;
+background-image:url('graphics/playerhp.jpg');
+}
+
+#PlayerHPNumber{
+float: right;
+padding-right: 30px;
+padding-top: 10px;
+color: white;
+
+}
+
+#playerhp{
+position: relative;
+left: 25px;
+top: 62px;
+width: 1px;
+height: 20px;
+background-image:url('graphics/healthgrad.jpg');
+
+
+
+}
+
+#nakki{
+float: left;
+position: relative;
+left: 25px;
+top: 50px;
+width: 450px;
+height: 200px;
+background-color: pink;
+background-image:url('graphics/messagebox.jpg');
+
+}
+
+#infobox{
+margin: 0 auto;
+padding-top:30px;
+padding-left:15px;
+width: 348px;
+height: 110px;
+
+
+}
+
+
+#skillbox{
+float: right;
+position: relative;
+right: 25px;
+top: 50px;
+width: 450px;
+height: 200px;
+background-image:url('graphics/skillbox.jpg');
+}
+
+#moves{
+float: left;
+width: 245px;
+height: 190px;
+}
+#statistics{
+float: right;
+padding-top: 10px;
+width: 185px;
+height: 180px;
+}
+
+#punchbutton{
+padding-top:50px;
+padding-left:40px;
+}
+
+#hookbutton{
+padding-top:50px;
+padding-left:8px;
+}
+
+#healbutton{
+padding-top:22px;
+padding-left:8px;
+}
+
+
+#kickbutton{
+padding-top:22px;
+padding-left:40px;
+}
+
+#ehits{
+color: red;
+font-size: 11px;
+}
+#edodges{
+color: red;
+font-size: 11px;
+}
+#phits{
+color: red;
+font-size: 11px;
+}
+#pdodges{
+color: red;
+font-size: 11px;
+}
